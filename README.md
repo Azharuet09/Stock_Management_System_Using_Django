@@ -4,12 +4,11 @@ This is a simple Stock Management System built with Django, Django REST Framewor
 
 ### Clone the repository:
 ``` python 
-git clone <repository-url>
+git clone https://github.com/Azharuet09/Stock_Management_System_Using_Django.git
 ```
 ``` python 
-cd stock_management
+cd Stock_Management_System_Using_Django
 ```
-Create a virtual environment and activate it:
 
 ### Install the required packages:
 
