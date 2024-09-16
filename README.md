@@ -115,7 +115,6 @@ Example request:
 This will calculate the transaction price based on the stock price and update the user’s balance.
 
 GET /transactions/{user_id}/: Retrieve all transactions of a specific user.
-
 ```python
 http://127.0.0.1:8000/stocks/transactions/{user_id}
 ```
